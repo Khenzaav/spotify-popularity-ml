@@ -10,12 +10,12 @@ This project explores how audio characteristics and metadata influence song popu
 6. Mood-based filtering
 7. Content-based similarity
 ## Dataset
-Source: Kaggle — Spotify Tracks Dataset
-Total Rows: ~113,549 tracks
-Target Variable: Popularity (0–100)
-Feature Types:
+* Source: Kaggle — Spotify Tracks Dataset
+* Total Rows: ~113,549 tracks
+* Target Variable: Popularity (0–100)
+* Feature Types:
 Audio features (Energy, Valence, Tempo, Loudness, etc.)
-Metadata (Artist, Genre, Duration, Explicit, Mode)
+* Metadata (Artist, Genre, Duration, Explicit, Mode)
 ## Data Preprocessing Steps
 ✔ Removed missing values
 ✔ Corrected out-of-range loudness values
