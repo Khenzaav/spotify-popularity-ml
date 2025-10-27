@@ -2,14 +2,13 @@
 Predicting Music Popularity Using Audio Features & Metadata
 This project explores how audio characteristics and metadata influence song popularity on Spotify. Using machine learning and statistical analysis, the study investigates which features most strongly contribute to success and builds predictive and recommendation models based on those insights.
 ## Objectives
-Perform Exploratory Data Analysis (EDA) on Spotify track features
-Identify relationships between audio features and popularity
-Build machine learning models to predict track popularity
-Determine feature importance
-Group songs into mood-based clusters
-Create basic recommendation systems
-Mood-based filtering
-Content-based similarity
+1. Identify relationships between audio features and popularity
+2. Build machine learning models to predict track popularity
+3. Determine feature importance
+4. Group songs into mood-based clusters
+5. Create basic recommendation systems
+6. Mood-based filtering
+7. Content-based similarity
 ## Dataset
 Source: Kaggle — Spotify Tracks Dataset
 Total Rows: ~113,549 tracks
